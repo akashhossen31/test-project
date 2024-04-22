@@ -143,7 +143,7 @@ a{
 	margin-top: 50px;
 }
 .box-one{
-	background-image: url(./images/bf37f8217e4b71feb26707d632c6845d.jpeg);
+	background-image: url(../images/bf37f8217e4b71feb26707d632c6845d.jpeg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -151,7 +151,7 @@ a{
 	background-blend-mode: multiply;
 }
 .box-two{
-	background-image: url(./images/457883519366bc77e9ffb4294b44f8df.jpeg);
+	background-image: url(../images/457883519366bc77e9ffb4294b44f8df.jpeg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -159,7 +159,7 @@ a{
 	background-blend-mode: multiply;
 }
 .box-three{
-	background-image: url(./images/35970472e6f88da51190947c84ba6f2a.jpeg);
+	background-image: url(../images/35970472e6f88da51190947c84ba6f2a.jpeg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
