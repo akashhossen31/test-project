@@ -1,0 +1,41 @@
+@media(min-width:320px) and (max-width:480px){
+    #header .left{
+        padding-right: 680px;
+    }
+    #header .image{
+        display: none;
+    }
+    #second{
+        flex-direction: column;
+    }
+    #second .left .right{
+        padding-right: 300px;
+    }
+    #third{
+        flex-direction: column;
+    }
+    #service-body{
+        flex-direction: column;
+    }
+    .service-body{
+        flex-direction: column;
+    } 
+    #location{
+        flex-direction: column;
+    }
+    #animation{
+        flex-direction: column;
+    }
+    .working-body{
+        flex-direction: column;
+    }
+    .testimonials-body{
+        flex-direction: column;
+    }
+    .blog-body{
+        flex-direction: column;
+    }
+    .footer{
+        flex-direction: column;
+    }
+}
